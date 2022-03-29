@@ -1,5 +1,5 @@
 #!/bin/bash
-#Purpose: To Check whether provided IP is Valid IP Not
+#Purpose: SSH Passwordless Login
 #Version: 1.0
 #Created Date: 
 #Modified Date: 
